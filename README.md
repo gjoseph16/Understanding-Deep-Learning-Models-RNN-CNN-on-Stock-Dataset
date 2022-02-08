@@ -11,7 +11,7 @@ Focussed on a comparison of generic convolutional (TCN)² and recurrent architec
 
 ### Code:
 
-DL on Stock Data
+src/DL on Stock Data
 
 ### Comparison and explanation:
 
